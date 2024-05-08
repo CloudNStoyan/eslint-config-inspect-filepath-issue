@@ -1,0 +1,1 @@
+# Demo project to reproduce ESLint Config Inspector file path issue
